@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgb(189, 255, 233);
+    border: solid 1px rgb(125, 182, 163);
+    margin: 13px;
+    border-radius: 5px;
+}
+header log {
+    height: 40px;
+    width: 50px;
+    border: solid 1px rgb(163, 218, 199);
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+    background-color:  rgb(189, 255, 233);
+    color: rgb(101, 141, 128);
+    margin: 30px;
+    border: solid 1px rgb(125, 182, 163);
+}
